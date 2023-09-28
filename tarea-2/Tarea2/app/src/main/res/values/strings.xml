@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tarea-2</string>
+
+    <string name="option1">ListView</string>
+    <string name="option2">RecyclerView</string>
+
+    <string name="new_task">New Task</string>
+    <string name="remove_task">Remove</string>
+    <string name="add_task">Add</string>
+    <string name="cancel_task">Cancel</string>
+
+    <string name="task_matter">Matter</string>
+
+
+</resources>
