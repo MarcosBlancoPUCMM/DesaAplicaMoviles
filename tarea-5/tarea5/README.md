@@ -1,16 +1,2 @@
-# tarea5
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tarea #5 (My First App - Flutter): Diseño de Interfaz de Usuario Básica en Flutter
+Para esta Tarea #5, la primera tarea usando Flutter, aprendí mucho mejor como se maneja Flutter en general; a diferencia de programar en Java, en Flutter, se montan componentes sobre componentes. La aplicación que cree tiene tres .dart (excluyendo el main que solo invoca uno de estos): Primero esta un bottomNavigationBar importado porque tiene un diseño bastante cool. De esta manera, pude aprender a como puedo importar diseños. Tal bottomNavigationBar, tiene dos iconos que cuando onTap - usando mi lista de paginas - te dirige ya sea a la pagina 1 o a la pagina 2. Aqui mismo puse en practica los Icons y Colors que Flutter tiene. La pagina 1 fue diseñada para poder aprender a como usar containers. Aqui pude explorar muchisimo sobre estos, asi como los margins y paddins, los alignment y decorations (borderRadius, border, boxShadow). A su vez, aprendi a usar los fonts de GoogleFonts. Por otro lado, la pagina 2 fue diseñada para aprender a utilizar Rows y Columns. Utilizando el conocimiento previo de Containers e Imagenes, reorganize estos utilizando tales; especificamente como puedo usar Expanded y flex para manejar los sizes.
